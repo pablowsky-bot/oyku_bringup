@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>oyku_bringup</name>
+  <version>0.0.0</version>
+  <description>The oyku_bringup package</description>
+
+  <maintainer email="olima_84@yahoo.com">Oscar Lima</maintainer>
+
+  <license>MIT</license>
+
+  <!--   <build_depend>roscpp</build_depend> -->
+  <exec_depend>osoyoo_omni_drive</exec_depend>
+  <exec_depend>oyku_description</exec_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
